@@ -120,7 +120,6 @@ Central configuration file. All paths, thresholds, and class names are defined h
 | Classes | 12 (black/white × bishop, king, knight, pawn, queen, rook) |
 | mAP@50 | **0.992** |
 | Weights | `runs/detect/chess_v1/weights/best.pt` |
-| Hardware | RTX 4050 Laptop GPU (CUDA) |
 
 ---
 <!-- 
@@ -169,7 +168,6 @@ python main.py
 | Object Detection | YOLOv8n (Ultralytics) |
 | Chess Engine | Stockfish |
 | Camera Input | IP Webcam / OpenCV VideoCapture |
-| Hardware | Arduino Uno *(planned for move display)* |
 
 ---
 
