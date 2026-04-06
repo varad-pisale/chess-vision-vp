@@ -10,7 +10,7 @@ from pathlib import Path
 
 # MODEL_PATH=Path("secondary_models/chess-model-yolov8m.pt")
 MODEL_PATH=Path("runs/detect/runs/chess_v1/weights/best.pt")
-SOURCES=["http://192.168.1.5:8080/video",0]
+SOURCES=["IP_LINK",0]
 CONF=0.4
 IOU=0.45
 NAMES= ['black-bishop', 'black-king', 'black-knight', 'black-pawn', 'black-queen', 'black-rook', 'white-bishop', 'white-king', 'white-knight', 'white-pawn', 'white-queen', 'white-rook']

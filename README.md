@@ -123,16 +123,14 @@ Central configuration file. All paths, thresholds, and class names are defined h
 | Hardware | RTX 4050 Laptop GPU (CUDA) |
 
 ---
-
+<!-- 
 ## 🖼️ Detection Samples
-
-> *(Board detection and piece recognition output images — add yours here)*
 
 | Board Warped (480×480) | Piece Detections | Move Suggestion |
 |---|---|---|
-| ![board](assets/board_warp.png) | ![pieces](assets/piece_detections.png) | ![move](assets/move_display.png) |
+| ![board](assets/board_warp.png) | ![pieces](assets/piece_detections.png) | ![move](assets/move_display.png) | -->
 
----
+<!-- --- -->
 
 ## 🚀 Getting Started
 
